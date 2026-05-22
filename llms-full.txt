@@ -1,0 +1,51 @@
+# Geotecnia1 — La Florida
+
+> Geotechnical engineering services in La Florida, Chile.
+
+## Services
+- [Aislacion Sismica](https://la-florida.geotecnia.sbs/aislacion-sismica/)
+- [Anclajes](https://la-florida.geotecnia.sbs/anclajes/)
+- [Calicatas](https://la-florida.geotecnia.sbs/calicatas/)
+- [Cbr Vial](https://la-florida.geotecnia.sbs/cbr-vial/)
+- [Cimentaciones](https://la-florida.geotecnia.sbs/cimentaciones/)
+- [Columnas Grava](https://la-florida.geotecnia.sbs/columnas-grava/)
+- [Densidad Cono Arena](https://la-florida.geotecnia.sbs/densidad-cono-arena/)
+- [Ensayo Cpt](https://la-florida.geotecnia.sbs/ensayo-cpt/)
+- [Ensayos Proctor](https://la-florida.geotecnia.sbs/ensayos-proctor/)
+- [Estabilidad Taludes](https://la-florida.geotecnia.sbs/estabilidad-taludes/)
+- [Excavaciones Profundas](https://la-florida.geotecnia.sbs/excavaciones-profundas/)
+- [Excavaciones Subterraneo](https://la-florida.geotecnia.sbs/excavaciones-subterraneo/)
+- [Exploracion](https://la-florida.geotecnia.sbs/exploracion/)
+- [Geotecnia Vial](https://la-florida.geotecnia.sbs/geotecnia-vial/)
+- [Granulometria](https://la-florida.geotecnia.sbs/granulometria/)
+- [Inyecciones](https://la-florida.geotecnia.sbs/inyecciones/)
+- [Laboratorio In Situ](https://la-florida.geotecnia.sbs/laboratorio-in-situ/)
+- [Laboratorio Lab](https://la-florida.geotecnia.sbs/laboratorio-lab/)
+- [Licuefaccion](https://la-florida.geotecnia.sbs/licuefaccion/)
+- [Limites Atterberg](https://la-florida.geotecnia.sbs/limites-atterberg/)
+- [Losas Fundacion](https://la-florida.geotecnia.sbs/losas-fundacion/)
+- [Masw](https://la-florida.geotecnia.sbs/masw/)
+- [Mejoramiento](https://la-florida.geotecnia.sbs/mejoramiento/)
+- [Microzonificacion Sismica](https://la-florida.geotecnia.sbs/microzonificacion-sismica/)
+- [Monitoreo Excavaciones](https://la-florida.geotecnia.sbs/monitoreo-excavaciones/)
+- [Muros Contencion](https://la-florida.geotecnia.sbs/muros-contencion/)
+- [Pavimento Flexible](https://la-florida.geotecnia.sbs/pavimento-flexible/)
+- [Pavimento Rigido](https://la-florida.geotecnia.sbs/pavimento-rigido/)
+- [Permeabilidad In Situ](https://la-florida.geotecnia.sbs/permeabilidad-in-situ/)
+- [Pilotes](https://la-florida.geotecnia.sbs/pilotes/)
+- [Refraccion Sismica](https://la-florida.geotecnia.sbs/refraccion-sismica/)
+- [Resistividad](https://la-florida.geotecnia.sbs/resistividad/)
+- [Sismica](https://la-florida.geotecnia.sbs/sismica/)
+- [Sondajes Spt](https://la-florida.geotecnia.sbs/sondajes-spt/)
+- [Taludes](https://la-florida.geotecnia.sbs/taludes/)
+- [Triaxial](https://la-florida.geotecnia.sbs/triaxial/)
+- [Tuneles Suelo Blando](https://la-florida.geotecnia.sbs/tuneles-suelo-blando/)
+- [Vibrocompactacion](https://la-florida.geotecnia.sbs/vibrocompactacion/)
+- [Zapatas](https://la-florida.geotecnia.sbs/zapatas/)
+
+## Contact
+- Website: https://la-florida.geotecnia.sbs/
+
+## About
+This site provides geotechnical engineering services in La Florida, Chile.
+Compliant with local and international standards (ASTM, ISO, country-specific norms).
