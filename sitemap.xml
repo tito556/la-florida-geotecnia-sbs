@@ -4,165 +4,246 @@
     <loc>https://la-florida.geotecnia.sbs/</loc>
     <lastmod>2026-04-24</lastmod>
     <changefreq>daily</changefreq>
+    <priority>1.0</priority>
   </url>
   <url>
-    <loc>https://la-florida.geotecnia.sbs/refraccion-sismica</loc>
-    <lastmod>2026-04-08</lastmod>
-    <changefreq>weekly</changefreq>
-  </url>
-  <url>
-    <loc>https://la-florida.geotecnia.sbs/granulometria</loc>
-    <lastmod>2026-04-11</lastmod>
-    <changefreq>weekly</changefreq>
-  </url>
-  <url>
-    <loc>https://la-florida.geotecnia.sbs/pavimento-flexible</loc>
-    <lastmod>2026-04-05</lastmod>
-    <changefreq>weekly</changefreq>
-  </url>
-  <url>
-    <loc>https://la-florida.geotecnia.sbs/cbr-vial</loc>
-    <lastmod>2026-04-16</lastmod>
-    <changefreq>weekly</changefreq>
-  </url>
-  <url>
-    <loc>https://la-florida.geotecnia.sbs/monitoreo-excavaciones</loc>
-    <lastmod>2026-03-29</lastmod>
-    <changefreq>weekly</changefreq>
-  </url>
-  <url>
-    <loc>https://la-florida.geotecnia.sbs/pilotes</loc>
-    <lastmod>2026-04-09</lastmod>
-    <changefreq>weekly</changefreq>
-  </url>
-  <url>
-    <loc>https://la-florida.geotecnia.sbs/zapatas</loc>
-    <lastmod>2026-05-06</lastmod>
-    <changefreq>weekly</changefreq>
-  </url>
-  <url>
-    <loc>https://la-florida.geotecnia.sbs/pavimento-rigido</loc>
-    <lastmod>2026-03-27</lastmod>
-    <changefreq>weekly</changefreq>
-  </url>
-  <url>
-    <loc>https://la-florida.geotecnia.sbs/sondajes-spt</loc>
-    <lastmod>2026-03-30</lastmod>
-    <changefreq>weekly</changefreq>
-  </url>
-  <url>
-    <loc>https://la-florida.geotecnia.sbs/muros-contencion</loc>
-    <lastmod>2026-05-09</lastmod>
-    <changefreq>weekly</changefreq>
-  </url>
-  <url>
-    <loc>https://la-florida.geotecnia.sbs/microzonificacion-sismica</loc>
-    <lastmod>2026-04-11</lastmod>
-    <changefreq>weekly</changefreq>
-  </url>
-  <url>
-    <loc>https://la-florida.geotecnia.sbs/permeabilidad-in-situ</loc>
-    <lastmod>2026-04-20</lastmod>
-    <changefreq>weekly</changefreq>
-  </url>
-  <url>
-    <loc>https://la-florida.geotecnia.sbs/resistividad</loc>
-    <lastmod>2026-05-17</lastmod>
-    <changefreq>weekly</changefreq>
-  </url>
-  <url>
-    <loc>https://la-florida.geotecnia.sbs/anclajes</loc>
-    <lastmod>2026-05-20</lastmod>
-    <changefreq>weekly</changefreq>
-  </url>
-  <url>
-    <loc>https://la-florida.geotecnia.sbs/licuefaccion</loc>
-    <lastmod>2026-03-27</lastmod>
-    <changefreq>weekly</changefreq>
-  </url>
-  <url>
-    <loc>https://la-florida.geotecnia.sbs/ensayos-proctor</loc>
-    <lastmod>2026-04-08</lastmod>
-    <changefreq>weekly</changefreq>
-  </url>
-  <url>
-    <loc>https://la-florida.geotecnia.sbs/inyecciones</loc>
-    <lastmod>2026-04-21</lastmod>
-    <changefreq>weekly</changefreq>
-  </url>
-  <url>
-    <loc>https://la-florida.geotecnia.sbs/tuneles-suelo-blando</loc>
-    <lastmod>2026-04-15</lastmod>
-    <changefreq>weekly</changefreq>
-  </url>
-  <url>
-    <loc>https://la-florida.geotecnia.sbs/densidad-cono-arena</loc>
-    <lastmod>2026-03-25</lastmod>
-    <changefreq>weekly</changefreq>
-  </url>
-  <url>
-    <loc>https://la-florida.geotecnia.sbs/aislacion-sismica</loc>
+    <loc>https://la-florida.geotecnia.sbs/aislacion-sismica/</loc>
     <lastmod>2026-04-17</lastmod>
     <changefreq>weekly</changefreq>
+    <priority>0.8</priority>
   </url>
   <url>
-    <loc>https://la-florida.geotecnia.sbs/triaxial</loc>
+    <loc>https://la-florida.geotecnia.sbs/anclajes/</loc>
+    <lastmod>2026-05-20</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.8</priority>
+  </url>
+  <url>
+    <loc>https://la-florida.geotecnia.sbs/calicatas/</loc>
     <lastmod>2026-03-23</lastmod>
     <changefreq>weekly</changefreq>
+    <priority>0.8</priority>
   </url>
   <url>
-    <loc>https://la-florida.geotecnia.sbs/estabilidad-taludes</loc>
-    <lastmod>2026-04-13</lastmod>
+    <loc>https://la-florida.geotecnia.sbs/cbr-vial/</loc>
+    <lastmod>2026-04-16</lastmod>
     <changefreq>weekly</changefreq>
+    <priority>0.8</priority>
   </url>
   <url>
-    <loc>https://la-florida.geotecnia.sbs/limites-atterberg</loc>
-    <lastmod>2026-04-08</lastmod>
+    <loc>https://la-florida.geotecnia.sbs/cimentaciones/</loc>
+    <lastmod>2026-06-01</lastmod>
     <changefreq>weekly</changefreq>
+    <priority>0.8</priority>
   </url>
   <url>
-    <loc>https://la-florida.geotecnia.sbs/excavaciones-profundas</loc>
-    <lastmod>2026-05-09</lastmod>
-    <changefreq>weekly</changefreq>
-  </url>
-  <url>
-    <loc>https://la-florida.geotecnia.sbs/calicatas</loc>
-    <lastmod>2026-03-23</lastmod>
-    <changefreq>weekly</changefreq>
-  </url>
-  <url>
-    <loc>https://la-florida.geotecnia.sbs/contacto</loc>
-    <lastmod>2026-05-04</lastmod>
-    <changefreq>weekly</changefreq>
-  </url>
-  <url>
-    <loc>https://la-florida.geotecnia.sbs/columnas-grava</loc>
+    <loc>https://la-florida.geotecnia.sbs/columnas-grava/</loc>
     <lastmod>2026-05-12</lastmod>
     <changefreq>weekly</changefreq>
+    <priority>0.8</priority>
   </url>
   <url>
-    <loc>https://la-florida.geotecnia.sbs/losas-fundacion</loc>
-    <lastmod>2026-05-01</lastmod>
+    <loc>https://la-florida.geotecnia.sbs/densidad-cono-arena/</loc>
+    <lastmod>2026-03-25</lastmod>
     <changefreq>weekly</changefreq>
+    <priority>0.8</priority>
   </url>
   <url>
-    <loc>https://la-florida.geotecnia.sbs/ensayo-cpt</loc>
+    <loc>https://la-florida.geotecnia.sbs/ensayo-cpt/</loc>
     <lastmod>2026-05-05</lastmod>
     <changefreq>weekly</changefreq>
+    <priority>0.8</priority>
   </url>
   <url>
-    <loc>https://la-florida.geotecnia.sbs/masw</loc>
+    <loc>https://la-florida.geotecnia.sbs/ensayos-proctor/</loc>
+    <lastmod>2026-04-08</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.8</priority>
+  </url>
+  <url>
+    <loc>https://la-florida.geotecnia.sbs/estabilidad-taludes/</loc>
+    <lastmod>2026-04-13</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.8</priority>
+  </url>
+  <url>
+    <loc>https://la-florida.geotecnia.sbs/excavaciones-profundas/</loc>
+    <lastmod>2026-05-09</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.8</priority>
+  </url>
+  <url>
+    <loc>https://la-florida.geotecnia.sbs/excavaciones-subterraneo/</loc>
+    <lastmod>2026-06-01</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.8</priority>
+  </url>
+  <url>
+    <loc>https://la-florida.geotecnia.sbs/exploracion/</loc>
+    <lastmod>2026-06-01</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.8</priority>
+  </url>
+  <url>
+    <loc>https://la-florida.geotecnia.sbs/geotecnia-vial/</loc>
+    <lastmod>2026-06-01</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.8</priority>
+  </url>
+  <url>
+    <loc>https://la-florida.geotecnia.sbs/granulometria/</loc>
+    <lastmod>2026-04-11</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.8</priority>
+  </url>
+  <url>
+    <loc>https://la-florida.geotecnia.sbs/inyecciones/</loc>
     <lastmod>2026-04-21</lastmod>
     <changefreq>weekly</changefreq>
+    <priority>0.8</priority>
   </url>
   <url>
-    <loc>https://la-florida.geotecnia.sbs/vibrocompactacion</loc>
+    <loc>https://la-florida.geotecnia.sbs/laboratorio-in-situ/</loc>
+    <lastmod>2026-06-01</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.8</priority>
+  </url>
+  <url>
+    <loc>https://la-florida.geotecnia.sbs/laboratorio-lab/</loc>
+    <lastmod>2026-06-01</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.8</priority>
+  </url>
+  <url>
+    <loc>https://la-florida.geotecnia.sbs/licuefaccion/</loc>
+    <lastmod>2026-03-27</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.8</priority>
+  </url>
+  <url>
+    <loc>https://la-florida.geotecnia.sbs/limites-atterberg/</loc>
+    <lastmod>2026-04-08</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.8</priority>
+  </url>
+  <url>
+    <loc>https://la-florida.geotecnia.sbs/losas-fundacion/</loc>
+    <lastmod>2026-05-01</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.8</priority>
+  </url>
+  <url>
+    <loc>https://la-florida.geotecnia.sbs/masw/</loc>
+    <lastmod>2026-04-21</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.8</priority>
+  </url>
+  <url>
+    <loc>https://la-florida.geotecnia.sbs/mejoramiento/</loc>
+    <lastmod>2026-06-01</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.8</priority>
+  </url>
+  <url>
+    <loc>https://la-florida.geotecnia.sbs/microzonificacion-sismica/</loc>
+    <lastmod>2026-04-11</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.8</priority>
+  </url>
+  <url>
+    <loc>https://la-florida.geotecnia.sbs/monitoreo-excavaciones/</loc>
+    <lastmod>2026-03-29</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.8</priority>
+  </url>
+  <url>
+    <loc>https://la-florida.geotecnia.sbs/muros-contencion/</loc>
+    <lastmod>2026-05-09</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.8</priority>
+  </url>
+  <url>
+    <loc>https://la-florida.geotecnia.sbs/pavimento-flexible/</loc>
+    <lastmod>2026-04-05</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.8</priority>
+  </url>
+  <url>
+    <loc>https://la-florida.geotecnia.sbs/pavimento-rigido/</loc>
+    <lastmod>2026-03-27</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.8</priority>
+  </url>
+  <url>
+    <loc>https://la-florida.geotecnia.sbs/permeabilidad-in-situ/</loc>
+    <lastmod>2026-04-20</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.8</priority>
+  </url>
+  <url>
+    <loc>https://la-florida.geotecnia.sbs/pilotes/</loc>
+    <lastmod>2026-04-09</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.8</priority>
+  </url>
+  <url>
+    <loc>https://la-florida.geotecnia.sbs/refraccion-sismica/</loc>
+    <lastmod>2026-04-08</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.8</priority>
+  </url>
+  <url>
+    <loc>https://la-florida.geotecnia.sbs/resistividad/</loc>
+    <lastmod>2026-05-17</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.8</priority>
+  </url>
+  <url>
+    <loc>https://la-florida.geotecnia.sbs/sismica/</loc>
+    <lastmod>2026-06-01</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.8</priority>
+  </url>
+  <url>
+    <loc>https://la-florida.geotecnia.sbs/sitemap/</loc>
+    <lastmod>2026-06-01</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.5</priority>
+  </url>
+  <url>
+    <loc>https://la-florida.geotecnia.sbs/sondajes-spt/</loc>
+    <lastmod>2026-03-30</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.8</priority>
+  </url>
+  <url>
+    <loc>https://la-florida.geotecnia.sbs/taludes/</loc>
+    <lastmod>2026-06-01</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.8</priority>
+  </url>
+  <url>
+    <loc>https://la-florida.geotecnia.sbs/triaxial/</loc>
+    <lastmod>2026-03-23</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.8</priority>
+  </url>
+  <url>
+    <loc>https://la-florida.geotecnia.sbs/tuneles-suelo-blando/</loc>
+    <lastmod>2026-04-15</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.8</priority>
+  </url>
+  <url>
+    <loc>https://la-florida.geotecnia.sbs/vibrocompactacion/</loc>
     <lastmod>2026-05-05</lastmod>
     <changefreq>weekly</changefreq>
+    <priority>0.8</priority>
   </url>
   <url>
-    <loc>https://la-florida.geotecnia.sbs/privacidad</loc>
-    <lastmod>2026-05-13</lastmod>
+    <loc>https://la-florida.geotecnia.sbs/zapatas/</loc>
+    <lastmod>2026-05-06</lastmod>
     <changefreq>weekly</changefreq>
+    <priority>0.8</priority>
   </url>
 </urlset>
